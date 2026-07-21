@@ -30,14 +30,14 @@ Audits insurance reimbursement efficiency by comparing gross billed amounts, ins
 
 During data validation, I discovered that all 321,528 encounter records in the Synthea export were assigned strictly to primary care providers (GENERAL PRACTICE), leaving the remaining specialist providers in the directory unlinked.To prevent skewed visual scales in Power BI when analyzing provider performance, I shifted the revenue throughput analysis to group by Encounter Class (Wellness, Ambulatory, Outpatient, Inpatient, Emergency, Urgent Care) rather than provider specialty.
 
-## Power BI Dashboard Pages
+## 📊 Power BI Dashboard Pages
 
 <br>
 
 ### Page 1: Executive Safety & Operational Overview
-<img src="Page 1 executive_overview.png" alt="Executive Overview Page" width="100%">
+<img src="Page 1 executive_overview.png.png" alt="Executive Overview Page" width="100%">
 
 <br>
 
 ### Page 2: Hypertension Cohort Progression Matrix
-<img src="Page 2 cohort_progression_matrix.png" alt="Cohort Progression Matrix Page" width="100%">
+<img src="Page 2 cohort_progression_matrix.png.png" alt="Cohort Progression Matrix Page" width="100%">
