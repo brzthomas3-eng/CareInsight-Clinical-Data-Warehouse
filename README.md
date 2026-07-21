@@ -32,8 +32,12 @@ During data validation, I discovered that all 321,528 encounter records in the S
 
 ## Power BI Dashboard Pages
 
+<br>
+
 ### Page 1: Executive Safety & Operational Overview
-<img src="Page 1 executive_overview.png" alt="Executive Overview" width="100%">
+<img src="Page 1 executive_overview.png" alt="Executive Overview Page" width="100%">
+
+<br>
 
 ### Page 2: Hypertension Cohort Progression Matrix
-<img src="Page 2 cohort_progression_matrix.png" alt="Cohort Progression Matrix" width="100%">
+<img src="Page 2 cohort_progression_matrix.png" alt="Cohort Progression Matrix Page" width="100%">
